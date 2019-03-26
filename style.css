@@ -1,0 +1,484 @@
+#all {
+    font-family: sans-serif;
+    display: flex;
+}
+
+.span {
+    color: white;
+}
+
+#divje1 {
+    margin-top: 300px;
+    width: 150px;
+}
+
+.vmbo1 {
+    background-color: white;
+    width: 100px;
+    height: 50px;
+}
+
+.vmbo2 {
+    background-color: mediumspringgreen;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+
+.vmbo3 {
+    background-color: mediumspringgreen;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+
+.vmbo4 {
+    background-color: mediumspringgreen;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+
+
+#divje2 {
+    margin-top: 300px;
+    width: 150px;
+}
+
+.kader1 {
+    background-color: white;
+    width: 100px;
+    height: 50px;
+    text-align: center;
+}
+
+.kader2 {
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+
+.kader3 {
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+
+.kader4 {
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+
+
+
+#divje3 {
+    margin-top: 300px;
+    width: 150px;
+}
+
+.theo1 {
+    background-color: white;
+    width: 100px;
+    height: 50px;
+    text-align: center;
+}
+
+.theo2 {
+    background-color: darkblue;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+
+.theo3 {
+    background-color: darkblue;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+
+.theo4 {
+    background-color: darkblue;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+
+
+
+#divje4 {
+    margin-top: 300px;
+    width: 150px;
+}
+
+.havo61 {
+    background-color: white;
+    width: 100px;
+    height: 50px;
+    text-align: center;
+}
+
+.havo62 {
+    background-color: dimgray;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+
+.havo63 {
+    background-color: dimgrey;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+
+.havo64 {
+    background-color: dimgray;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+
+
+
+#divje5 {
+    margin-top: 200px;
+    width: 150px;
+}
+
+.havo1 {
+    background-color: white;
+    width: 100px;
+    height: 50px;
+    text-align: center;
+}
+
+.havo2 {
+    background-color: purple;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+
+.havo3 {
+    background-color: purple;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+
+.havo4 {
+    background-color: purple;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+
+.havo5 {
+    background-color: purple;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+
+
+
+#divje6 {
+    margin-top: 100px;
+    width: 150px;
+}
+
+.athe1 {
+    background-color: white;
+    width: 100px;
+    height: 50px;
+    text-align: center;
+}
+
+.athe2 {
+    background-color: purple;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+
+.athe3 {
+    background-color: purple;
+    margin-top: 2px;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+
+.athe4 {
+    background-color: purple;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+
+.athe5 {
+    background-color: purple;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+
+.athe6 {
+    background-color: purple;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+
+#divje7 {
+    margin-top: 100px;
+    width: 150px;
+}
+
+.vwo1 {
+    background-color: white;
+    width: 100px;
+    height: 50px;
+    text-align: center;
+}
+
+.vwo2 {
+    background-color: purple;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+
+.vwo3 {
+    background-color: purple;
+    margin-top: 2px;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+
+.vwo4 {
+    background-color: purple;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+
+.vwo5 {
+    background-color: purple;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+
+.vwo6 {
+    background-color: purple;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+}
+.vmbo2 span {
+    color: white;
+}
+
+.vmbo3 span {
+    color: white;
+}
+
+.vmbo4 span {
+    color: white;
+}
+
+.vmbo5 span {
+    color: white;
+}
+
+.kader2 span {
+    color: white;
+}
+
+.kader3 span {
+    color: white;
+}
+
+.kader4 span {
+    color: white;
+}
+
+.kader5 span {
+    color: white;
+}
+
+.theo2 span {
+    color: white;
+}
+
+.theo3 span {
+    color: white;
+}
+
+.theo4 span {
+    color: white;
+}
+
+.theo5 span {
+    color: white;
+}
+
+.havo62 span {
+    color: white;
+}
+
+.havo63 span {
+    color: white;
+}
+
+.havo64 span {
+    color: white;
+}
+
+.havo65 span {
+    color: white;
+}
+
+.havo2 span {
+    color: white;
+}
+
+.havo3 span {
+    color: white;
+}
+
+.havo4 span {
+    color: white;
+}
+
+.havo5 span {
+    color: white;
+}
+
+.havo6 span {
+    color: white;
+}
+
+.athe2 span {
+    color: white;
+}
+
+.athe3 span {
+    color: white;
+}
+
+.athe4 span {
+    color: white;
+}
+
+.athe5 span {
+    color: white;
+}
+
+.athe6 span {
+    color: white;
+}
+
+.vwo2 span {
+    color: white;
+}
+
+.vwo3 span {
+    color: white;
+}
+
+.vwo4 span {
+    color: white;
+}
+
+.vwo5 span {
+    color: white;
+}
+
+.vwo6 span {
+    color: white;
+}
+
+.vwo7 span {
+    color: white;
+}
+
+
+#onder {
+    margin-top: 40px;
+    display: flex;
+}
+
+
+.vmbo5 {
+    background-color: mediumspringgreen;
+    width: 100px;
+    height: 80px;
+    text-align: -moz-center;
+}
+
+.kader5 {
+    background-color: aqua;
+    width: 100px;
+    height: 80px;
+    text-align: -moz-center;
+}
+
+.theo5 {
+    background-color: darkblue;
+    width: 220px;
+    height: 80px;
+    text-align: -moz-center;
+}
+
+.havo65 {
+    background-color: dimgray;
+    width: 150px;
+    height: 80px;
+    text-align: -moz-center;
+}
+
+.havo6 {
+    background-color: purple;
+    width: 200px;
+    height: 80px;
+    text-align: -moz-center;
+}
+
+
+
+.tussen {
+    width: 50px;
+}
+
+.tusse {
+    width: 20px;
+}
+
+.tuss {
+    width: 5px;
+}
+
+.tus {
+    width: 8px;
+}
+
+.tu {
+    width: 50px;
+}
+
+.vwo7 {
+    background-color: purple;
+    width: 100px;
+    height: 80px;
+    text-align: -moz-center;
+}
+
+
